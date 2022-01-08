@@ -17,3 +17,11 @@
 
 
                  vagrant plugin expunge --reinstall
+
+
+
+
+
+
+
+https://drive.google.com/uc?id=1FT8e2gE43b5c_cb9THRx9fSWBJC9PARs&export=Ddownload
