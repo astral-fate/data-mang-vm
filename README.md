@@ -10,3 +10,10 @@
 
 
 ![image](https://user-images.githubusercontent.com/63984422/148651232-add2051e-3c89-4df4-8db7-2e04795ac756.png)
+
+
+
+
+
+
+                 vagrant plugin expunge --reinstall
